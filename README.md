@@ -1,2 +1,3 @@
 Nama : Jessica Wong
-Kelompok 2
+
+Kelompok : 2
